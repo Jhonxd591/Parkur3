@@ -1,0 +1,183 @@
+[22:44:10] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, profilesHost=https://api.mojang.com, name=PROD]
+[22:44:10] [ServerMain/WARN]: Unknown registry key in ResourceKey[minecraft:root / minecraft:game_rule]: axiom:do_block_drops; Unknown registry key in ResourceKey[minecraft:root / minecraft:game_rule]: axiom:do_block_drops; Unknown registry key in ResourceKey[minecraft:root / minecraft:game_rule]: axiom:player_invulnerability; Unknown registry key in ResourceKey[minecraft:root / minecraft:game_rule]: axiom:player_invulnerability; Unknown registry key in ResourceKey[minecraft:root / minecraft:game_rule]: axiom:do_trample_farmland; Unknown registry key in ResourceKey[minecraft:root / minecraft:game_rule]: axiom:do_trample_farmland; Unknown registry key in ResourceKey[minecraft:root / minecraft:game_rule]: axiom:do_block_gravity; Unknown registry key in ResourceKey[minecraft:root / minecraft:game_rule]: axiom:do_block_gravity missed input: {"axiom:do_block_drops":1b,"axiom:do_block_gravity":1b,"axiom:do_trample_farmland":1b,"axiom:player_invulnerability":0b}
+[22:44:10] [ServerMain/ERROR]: Couldn't load file/main pack metadata: Pack declares support for version newer than 81, but is missing mandatory fields min_format and max_format
+[22:44:10] [ServerMain/WARN]: Missing data pack axiom
+[22:44:10] [ServerMain/WARN]: Missing data pack fabric-convention-tags-v2
+[22:44:11] [ServerMain/WARN]: Unknown registry key in ResourceKey[minecraft:root / minecraft:game_rule]: axiom:do_block_drops; Unknown registry key in ResourceKey[minecraft:root / minecraft:game_rule]: axiom:do_block_drops; Unknown registry key in ResourceKey[minecraft:root / minecraft:game_rule]: axiom:player_invulnerability; Unknown registry key in ResourceKey[minecraft:root / minecraft:game_rule]: axiom:player_invulnerability; Unknown registry key in ResourceKey[minecraft:root / minecraft:game_rule]: axiom:do_trample_farmland; Unknown registry key in ResourceKey[minecraft:root / minecraft:game_rule]: axiom:do_trample_farmland; Unknown registry key in ResourceKey[minecraft:root / minecraft:game_rule]: axiom:do_block_gravity; Unknown registry key in ResourceKey[minecraft:root / minecraft:game_rule]: axiom:do_block_gravity missed input: {"axiom:do_block_drops":1b,"axiom:do_block_gravity":1b,"axiom:do_trample_farmland":1b,"axiom:player_invulnerability":0b}
+[22:44:12] [ServerMain/INFO]: Loaded 1470 recipes
+[22:44:12] [ServerMain/INFO]: Loaded 1584 advancements
+[22:44:12] [Server thread/INFO]: Starting minecraft server version 1.21.11
+[22:44:12] [Server thread/INFO]: Loading properties
+[22:44:12] [Server thread/INFO]: Default game type: SURVIVAL
+[22:44:12] [Server thread/INFO]: Generating keypair
+[22:44:12] [Server thread/INFO]: Starting Minecraft server on *:25565
+[22:44:12] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[22:44:12] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[22:44:12] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[22:44:12] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[22:44:12] [Server thread/INFO]: Preparing level "world"
+[22:44:12] [Server thread/INFO]: Loading 0 persistent chunks...
+[22:44:12] [Server thread/INFO]: Preparing spawn area: 100%
+[22:44:12] [Server thread/INFO]: Time elapsed: 12 ms
+[22:44:12] [Server thread/INFO]: Done (0.183s)! For help, type "help"
+[22:44:24] [Server thread/INFO]: Jhonxd593[/127.11.135.203:55433] logged in with entity id 4 at (-11.5, -11.0, 25.5)
+[22:44:24] [Server thread/INFO]: Jhonxd593 joined the game
+[22:44:28] [Server thread/INFO]: vanessa_12[/127.38.217.33:39903] logged in with entity id 5 at (-11.5, -11.0, 25.5)
+[22:44:28] [Server thread/INFO]: vanessa_12 joined the game
+[22:44:30] [Server thread/INFO]: [Not Secure] <vanessa_12> a
+[22:44:30] [Server thread/INFO]: [Not Secure] <Jhonxd593> ya esta
+[22:44:49] [Server thread/INFO]: [Not Secure] <Jhonxd593> lista?
+[22:44:53] [Server thread/INFO]: [Not Secure] <Jhonxd593> baby :b
+[22:45:00] [Server thread/INFO]: [Not Secure] <vanessa_12> no me matesss
+[22:45:12] [Server thread/INFO]: [Not Secure] <vanessa_12> akjdlkad
+[22:45:13] [Server thread/INFO]: [Not Secure] <vanessa_12> pelame
+[22:45:29] [Server thread/INFO]: [Not Secure] <vanessa_12> listo
+[22:46:24] [Server thread/INFO]: [Not Secure] <Jhonxd593> jajja
+[22:46:27] [Server thread/INFO]: [Not Secure] <Jhonxd593> :b
+[22:46:29] [Server thread/INFO]: [Not Secure] <Jhonxd593> lentita
+[22:46:37] [Server thread/INFO]: [Not Secure] <Jhonxd593> tortugita
+[22:46:37] [Server thread/INFO]: [Not Secure] <vanessa_12> chale
+[22:46:55] [Server thread/INFO]: [Not Secure] <vanessa_12> bueno
+[22:47:02] [Server thread/INFO]: [Not Secure] <vanessa_12> me voa enojatr
+[22:47:04] [Server thread/INFO]: [Not Secure] <Jhonxd593> jajja
+[22:47:07] [Server thread/INFO]: [Not Secure] <Jhonxd593> era bromita :3
+[22:47:14] [Server thread/INFO]: [Not Secure] <Jhonxd593> ya no lo hare, sube baby
+[22:47:30] [Server thread/INFO]: [Not Secure] <Jhonxd593> aya :v
+[22:47:50] [Server thread/INFO]: [Not Secure] <vanessa_12> adkljalkda
+[22:47:52] [Server thread/INFO]: [Not Secure] <vanessa_12> jejeje
+[22:47:59] [Server thread/INFO]: [Not Secure] <Jhonxd593> volvi
+[22:47:59] [Server thread/INFO]: [Not Secure] <vanessa_12> nose donde ir
+[22:48:27] [Server thread/INFO]: [Not Secure] <Jhonxd593> quem allaa
+[22:48:39] [Server thread/INFO]: [Not Secure] <vanessa_12> akjdhakjda
+[22:48:46] [Server thread/INFO]: [Not Secure] <Jhonxd593> es por aca
+[22:48:47] [Server thread/INFO]: [Not Secure] <vanessa_12> donde
+[22:49:24] [Server thread/INFO]: [Not Secure] <Jhonxd593> ...
+[22:49:26] [Server thread/INFO]: [Not Secure] <vanessa_12> akjdhkajda
+[22:49:42] [Server thread/INFO]: [Not Secure] <vanessa_12> q lindo este parkou
+[22:49:58] [Server thread/INFO]: [Not Secure] <vanessa_12> ahora si q te lucistes
+[22:50:04] [Server thread/INFO]: [Not Secure] <vanessa_12> vamos bb
+[22:50:22] [Server thread/INFO]: [Not Secure] <Jhonxd593> donde estas -.-
+[22:50:34] [Server thread/INFO]: [Not Secure] <vanessa_12> algo lejos kadkja
+[22:50:47] [Server thread/INFO]: [Not Secure] <vanessa_12> adkhlkda
+[22:51:33] [Server thread/INFO]: [Not Secure] <Jhonxd593> jajja
+[22:51:41] [Server thread/INFO]: [Not Secure] <vanessa_12> ajajjaja
+[22:52:00] [Server thread/INFO]: [Not Secure] <vanessa_12> adbamda
+[22:52:01] [Server thread/INFO]: [Not Secure] <vanessa_12> jajajajjaja
+[22:52:18] [Server thread/INFO]: [Not Secure] <Jhonxd593> :b
+[22:52:57] [Server thread/INFO]: [Not Secure] <vanessa_12> ajajjajaja
+[22:52:58] [Server thread/INFO]: [Not Secure] <Jhonxd593> jajjaa
+[22:52:59] [Server thread/INFO]: [Not Secure] <vanessa_12> f
+[22:53:27] [Server thread/INFO]: [Not Secure] <vanessa_12> vente
+[22:53:49] [Server thread/INFO]: [Not Secure] <Jhonxd593> te gane :B
+[22:54:13] [Server thread/INFO]: [Not Secure] <vanessa_12> lkadlkad
+[22:55:04] [Server thread/INFO]: [Not Secure] <Jhonxd593> aya
+[22:55:26] [Server thread/INFO]: [Not Secure] <vanessa_12> lkalkdja
+[22:55:51] [Server thread/INFO]: [Not Secure] <Jhonxd593> jajja
+[22:55:51] [Server thread/INFO]: [Not Secure] <vanessa_12> tmrrrrrrrr
+[22:55:54] [Server thread/INFO]: [Not Secure] <Jhonxd593> ::b
+[22:56:23] [Server thread/INFO]: [Not Secure] <vanessa_12> aaaa
+[22:57:07] [Server thread/INFO]: [Not Secure] <Jhonxd593> :b
+[22:57:15] [Server thread/INFO]: [Not Secure] <vanessa_12> -_-
+[22:57:19] [Server thread/INFO]: [Not Secure] <Jhonxd593> jajaja
+[22:57:49] [Server thread/INFO]: [Not Secure] <Jhonxd593> jajja
+[22:58:18] [Server thread/INFO]: [Not Secure] <Jhonxd593> jajaja
+[22:58:20] [Server thread/INFO]: [Not Secure] <vanessa_12> terrible
+[22:58:41] [Server thread/INFO]: [Not Secure] <Jhonxd593> terrible
+[22:58:59] [Server thread/INFO]: [Not Secure] <vanessa_12> akjdhkajhda
+[22:59:29] [Server thread/INFO]: [Not Secure] <vanessa_12> tmrrrr
+[22:59:45] [Server thread/INFO]: [Not Secure] <Jhonxd593> te iba a decir paz
+[22:59:46] [Server thread/INFO]: [Not Secure] <vanessa_12> alkdjalkjda
+[22:59:47] [Server thread/INFO]: [Not Secure] <Jhonxd593> pero ya no habra
+[22:59:48] [Server thread/INFO]: [Not Secure] <vanessa_12> jajajjaja
+[22:59:51] [Server thread/INFO]: [Not Secure] <vanessa_12> ,muy tarde
+[23:00:06] [Server thread/INFO]: [Not Secure] <vanessa_12> ajdkjad
+[23:00:41] [Server thread/INFO]: [Not Secure] <Jhonxd593> :3
+[23:00:51] [Server thread/INFO]: [Not Secure] <vanessa_12> e nserio
+[23:00:54] [Server thread/INFO]: [Not Secure] <Jhonxd593> shi
+[23:01:13] [Server thread/INFO]: [Not Secure] <vanessa_12> noooooooooooo
+[23:02:10] [Server thread/INFO]: [Not Secure] <Jhonxd593> a
+[23:02:25] [Server thread/INFO]: [Not Secure] <vanessa_12> qqqqqqqqqq
+[23:02:38] [Server thread/INFO]: [Not Secure] <Jhonxd593> es muy facil baby
+[23:02:46] [Server thread/INFO]: [Not Secure] <Jhonxd593> jajjaa
+[23:02:52] [Server thread/INFO]: [Not Secure] <vanessa_12> enseriooooooooooo
+[23:02:55] [Server thread/INFO]: [Not Secure] <Jhonxd593> shi
+[23:03:04] [Server thread/INFO]: [Not Secure] <Jhonxd593> jajaja
+[23:03:06] [Server thread/INFO]: [Not Secure] <Jhonxd593> a
+[23:03:22] [Server thread/INFO]: [Not Secure] <vanessa_12> como es
+[23:03:36] [Server thread/INFO]: [Not Secure] <vanessa_12> q hacessss
+[23:03:46] [Server thread/INFO]: [Not Secure] <Jhonxd593> es que tenia un mosquito en tu ropa :3
+[23:04:00] [Server thread/INFO]: [Not Secure] <vanessa_12> te voy a odiar mas
+[23:04:50] [Server thread/INFO]: [Not Secure] <Jhonxd593> jajjaja
+[23:04:53] [Server thread/INFO]: [Not Secure] <vanessa_12> akjdhakjda
+[23:05:01] [Server thread/INFO]: [Not Secure] <vanessa_12> akjajajaja
+[23:05:35] [Server thread/INFO]: [Not Secure] <Jhonxd593> ::b
+[23:05:37] [Server thread/INFO]: [Not Secure] <Jhonxd593> por mala
+[23:05:55] [Server thread/INFO]: [Not Secure] <vanessa_12> akdlkad
+[23:06:02] [Server thread/INFO]: [Not Secure] <vanessa_12> jkahdkjahd
+[23:06:11] [Server thread/INFO]: [Not Secure] <vanessa_12> besitos
+[23:06:59] [Server thread/INFO]: [Not Secure] <Jhonxd593> esa es tu manera de dar besitos -.-
+[23:07:02] [Server thread/INFO]: [Not Secure] <vanessa_12> akjdhkajdha
+[23:07:04] [Server thread/INFO]: [Not Secure] <vanessa_12> jeje
+[23:07:05] [Server thread/INFO]: [Not Secure] <Jhonxd593> aa
+[23:07:06] [Server thread/INFO]: [Not Secure] <vanessa_12> jhadajgdjajhdad
+[23:07:08] [Server thread/INFO]: [Not Secure] <vanessa_12> jajajajajajajjaja
+[23:07:13] [Server thread/INFO]: [Not Secure] <vanessa_12> epicoooo
+[23:07:23] [Server thread/INFO]: [Not Secure] <vanessa_12> hahahahahahhahahaha
+[23:07:25] [Server thread/INFO]: [Not Secure] <vanessa_12> jakjdhakdjhkjahdkjahd
+[23:07:28] [Server thread/INFO]: [Not Secure] <vanessa_12> no pasassss
+[23:07:30] [Server thread/INFO]: [Not Secure] <vanessa_12> jajajjajajajja
+[23:07:55] [Server thread/INFO]: [Not Secure] <vanessa_12> hkajhdkjahda
+[23:07:56] [Server thread/INFO]: [Not Secure] <Jhonxd593> jajja
+[23:08:20] [Server thread/INFO]: [Not Secure] <Jhonxd593> :b
+[23:08:39] [Server thread/INFO]: [Not Secure] <Jhonxd593> no puede la niñita
+[23:08:44] [Server thread/INFO]: [Not Secure] <Jhonxd593> o
+[23:08:46] [Server thread/INFO]: [Not Secure] <Jhonxd593> :o
+[23:08:46] [Server thread/INFO]: [Not Secure] <vanessa_12> callese
+[23:08:57] [Server thread/INFO]: [Not Secure] <Jhonxd593> es mi turno de darte becitos :b
+[23:09:02] [Server thread/INFO]: [Not Secure] <vanessa_12> e nserio oo oo
+[23:09:06] [Server thread/INFO]: [Not Secure] <Jhonxd593> lagaso...
+[23:09:11] [Server thread/INFO]: [Not Secure] <vanessa_12> q bien
+[23:09:26] [Server thread/INFO]: [Not Secure] <Jhonxd593> te ayude :b
+[23:09:37] [Server thread/INFO]: [Not Secure] <vanessa_12> sin querer
+[23:09:38] [Server thread/INFO]: [Not Secure] <Jhonxd593> paz :3
+[23:09:42] [Server thread/INFO]: [Not Secure] <vanessa_12> a
+[23:09:42] [Server thread/INFO]: [Not Secure] <Jhonxd593> jajja
+[23:09:47] [Server thread/INFO]: [Not Secure] <Jhonxd593> fue queriendo :3
+[23:11:02] [Server thread/INFO]: [Not Secure] <Jhonxd593> jajjaa
+[23:11:19] [Server thread/INFO]: [Not Secure] <vanessa_12> akdjakhjd
+[23:11:32] [Server thread/INFO]: [Not Secure] <vanessa_12> a
+[23:11:34] [Server thread/INFO]: [Not Secure] <vanessa_12> donde
+[23:12:06] [Server thread/INFO]: [Not Secure] <Jhonxd593> no puede la lentita :b
+[23:12:17] [Server thread/INFO]: [Not Secure] <vanessa_12> adakjdka
+[23:12:56] [Server thread/INFO]: [Not Secure] <vanessa_12> f
+[23:13:36] [Server thread/INFO]: [Not Secure] <Jhonxd593> ya me tranquiklice :3
+[23:13:41] [Server thread/INFO]: [Not Secure] <vanessa_12> ajkdkhajd
+[23:13:43] [Server thread/INFO]: [Not Secure] <vanessa_12> yo no
+[23:14:22] [Server thread/INFO]: [Not Secure] <vanessa_12> a
+[23:14:24] [Server thread/INFO]: [Not Secure] <Jhonxd593> por mirarme :b
+[23:14:28] [Server thread/INFO]: [Not Secure] <vanessa_12> jajajaj
+[23:14:36] [Server thread/INFO]: [Not Secure] <vanessa_12> esq es invetivabloe
+[23:15:02] [Server thread/INFO]: [Not Secure] <Jhonxd593> viva :3
+[23:15:12] [Server thread/INFO]: [Not Secure] <Jhonxd593> Bueno, estare un ratito afk
+[23:15:16] [Server thread/INFO]: [Not Secure] <Jhonxd593> ya vuelvo
+[23:15:20] [Server thread/INFO]: [Not Secure] <vanessa_12> oño
+[23:15:22] [Server thread/INFO]: [Not Secure] <vanessa_12> e va con la otra
+[23:15:23] [Server thread/INFO]: [Not Secure] <vanessa_12> vere
+[23:15:24] [Server thread/INFO]: [Not Secure] <Jhonxd593> por 10 15 minutos
+[23:15:26] [Server thread/INFO]: [Not Secure] <vanessa_12> vete
+[23:15:34] [Server thread/INFO]: [Not Secure] <Jhonxd593> me voy con mi abuelo -_-
+[23:15:43] [Server thread/INFO]: [Not Secure] <vanessa_12> eso dicen todos
+[23:15:53] [Server thread/INFO]: [Not Secure] <Jhonxd593> no te pongas toxica :3
+[23:15:56] [Server thread/INFO]: [Not Secure] <Jhonxd593> Buenos, nos vemos :D
+[23:15:59] [Server thread/INFO]: [Not Secure] <vanessa_12> ajjajaja
+[23:16:03] [Server thread/INFO]: [Not Secure] <vanessa_12> vienes rapido
+[23:16:06] [Server thread/INFO]: Jhonxd593 lost connection: Disconnected
+[23:16:06] [Server thread/INFO]: Jhonxd593 left the game
+[23:19:13] [Server thread/INFO]: vanessa_12 lost connection: Disconnected
+[23:19:13] [Server thread/INFO]: vanessa_12 left the game
+[23:20:13] [Server thread/INFO]: Server empty for 60 seconds, pausing
+[23:21:30] [Server thread/INFO]: vanessa_12[/127.38.217.33:33679] logged in with entity id 81 at (61.526668484750054, 16.5, 22.43598141129186)
+[23:21:30] [Server thread/INFO]: vanessa_12 joined the game
+[23:31:00] [Server thread/INFO]: vanessa_12 lost connection: Disconnected
+[23:31:00] [Server thread/INFO]: vanessa_12 left the game
+[23:32:00] [Server thread/INFO]: Server empty for 60 seconds, pausing

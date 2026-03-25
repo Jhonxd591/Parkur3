@@ -1,0 +1,45 @@
+{
+  "stats": {
+    "minecraft:used": {
+      "minecraft:carrot_on_a_stick": 42
+    },
+    "minecraft:killed_by": {
+      "minecraft:player": 14
+    },
+    "minecraft:custom": {
+      "minecraft:time_since_rest": 5506,
+      "minecraft:walk_one_cm": 142356,
+      "minecraft:leave_game": 2,
+      "minecraft:walk_under_water_one_cm": 412,
+      "minecraft:damage_taken": 4803,
+      "minecraft:damage_dealt": 1513,
+      "minecraft:play_time": 53100,
+      "minecraft:jump": 1450,
+      "minecraft:time_since_death": 5503,
+      "minecraft:sprint_one_cm": 249820,
+      "minecraft:fall_one_cm": 94603,
+      "minecraft:total_world_time": 53100,
+      "minecraft:fly_one_cm": 341692,
+      "minecraft:walk_on_water_one_cm": 4181,
+      "minecraft:crouch_one_cm": 9733,
+      "minecraft:sneak_time": 3111,
+      "minecraft:climb_one_cm": 741,
+      "minecraft:deaths": 47,
+      "minecraft:player_kills": 18
+    },
+    "minecraft:mined": {
+      "minecraft:short_grass": 8,
+      "minecraft:fern": 4,
+      "minecraft:cherry_leaves": 1,
+      "minecraft:crimson_slab": 2,
+      "minecraft:rose_bush": 3,
+      "minecraft:small_dripleaf": 1,
+      "minecraft:sweet_berry_bush": 3,
+      "minecraft:lilac": 4,
+      "minecraft:grass_block": 1,
+      "minecraft:large_fern": 1,
+      "minecraft:dead_bush": 1
+    }
+  },
+  "DataVersion": 4671
+}

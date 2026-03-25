@@ -1,0 +1,3 @@
+clear @s
+item replace entity @a container.8 with carrot_on_a_stick[custom_name=[{"text":"Back to Checkpoint","bold":true,"italic":false,"color":"red"}],unbreakable={},custom_data={back:1},tooltip_display={hidden_components:[unbreakable]}]
+item replace entity @a container.7 with carrot_on_a_stick[custom_name=[{"text":"Reset Game","bold":true,"italic":false,"color":"green"}],unbreakable={},custom_data={reset:1},tooltip_display={hidden_components:[unbreakable]}]
